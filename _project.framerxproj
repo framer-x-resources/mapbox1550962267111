@@ -1,0 +1,113 @@
+{
+  "files" : {
+    ".backups/2018-12-21 19.22.39.zip" : {
+      "sha1" : "7GoK503SmH4P2vcRDMSPgDvnEhs=",
+      "size" : 1251
+    },
+    ".backups/2019-02-06 09.35.47.zip" : {
+      "sha1" : "QWXHS/fWeMwR/XXajNlnr9HR29E=",
+      "size" : 1590
+    },
+    ".backups/2019-02-24 07.43.07.zip" : {
+      "sha1" : "ADFWwTUErMhsSH5NzfZn0nxQ02w=",
+      "size" : 2389
+    },
+    ".backups/2019-02-24 07.49.42.zip" : {
+      "sha1" : "dfofSpzGkYWm2EIf1O6wkvq/avs=",
+      "size" : 2411
+    },
+    ".yarnignore" : {
+      "sha1" : "R/SdL0EuQHAjKdYmnwReL3v+BJg=",
+      "size" : 46
+    },
+    "build/Draft.css" : {
+      "sha1" : "EAhzGU2fx321Jor9Yku/eL05a9w=",
+      "size" : 4279
+    },
+    "build/framer.js" : {
+      "sha1" : "dK9fQVr1EqQ6+Ll6REOcJeLwKEg=",
+      "size" : 519337
+    },
+    "build/index.js" : {
+      "sha1" : "DUcTrBqMcV0Oe9kT3FJPsHH4DYQ=",
+      "size" : 10108381
+    },
+    "build/react-dom.development.js" : {
+      "sha1" : "nQs4dfjb25VVDNzTtFfYbuF1KQY=",
+      "size" : 641575
+    },
+    "build/react.development.js" : {
+      "sha1" : "2q2WObxZivmxSruU7BgBgScrCw0=",
+      "size" : 59086
+    },
+    "build/standalone.js" : {
+      "sha1" : "u/SdhIlWrJGVpB46QqnDODUw/p0=",
+      "size" : 72337
+    },
+    "build/style.css" : {
+      "sha1" : "RJmszaPYXj2PnF6BxLHsPxRgrS4=",
+      "size" : 5171
+    },
+    "code/App.tsx" : {
+      "sha1" : "e0s9AOm7z0yg88EnUgMGePVIKpw=",
+      "size" : 240
+    },
+    "code/canvas.tsx" : {
+      "sha1" : "XAWJ2Vc6zFl/c1ILjaRwb7ijf8Q=",
+      "size" : 179
+    },
+    "code/Examples.tsx" : {
+      "sha1" : "lUV35hS3rcE/Vwe/FKuuRgzCdDc=",
+      "size" : 1396
+    },
+    "design/document.json" : {
+      "sha1" : "6XBHTlGUKHiGamijnD8BB9Y8EUg=",
+      "size" : 7349
+    },
+    "images/cursors/touch-active.png" : {
+      "sha1" : "fYes+h/mpvrQ2z1kPVs0zEFuq5M=",
+      "size" : 2965
+    },
+    "images/cursors/touch-active@2x.png" : {
+      "sha1" : "IrXS4p49TPUF4VVjiAv5LzffmHE=",
+      "size" : 7792
+    },
+    "images/cursors/touch.png" : {
+      "sha1" : "ZR96UUIDd4QXZOPSsRSgZvDjWb4=",
+      "size" : 2912
+    },
+    "images/cursors/touch@2x.png" : {
+      "sha1" : "RiwOB1M8Lzb2/NU+mdjR1VBhicM=",
+      "size" : 8384
+    },
+    "index.html" : {
+      "sha1" : "cUlMR1N9CccIskE8SNMwARrE3UI=",
+      "size" : 10113799
+    },
+    "metadata/artwork.png" : {
+      "sha1" : "XQt2OEgFQMpg67iTAyQk3aFD1m0=",
+      "size" : 2744
+    },
+    "metadata/icon.png" : {
+      "sha1" : "qWcMrub7A7zXeZzOWhLyjtteWBc=",
+      "size" : 1851
+    },
+    "package.json" : {
+      "sha1" : "PjAFq3tTcLUmKbfPztnpm0zIsVs=",
+      "size" : 409
+    },
+    "README.md" : {
+      "sha1" : "2jmj7l5rSw0yVb/vlWAYkK/YBwk=",
+      "size" : 0
+    },
+    "tsconfig.json" : {
+      "sha1" : "aDUBWFOOLiSHozHi3fLJW+KdiYY=",
+      "size" : 277
+    },
+    "yarn.lock" : {
+      "sha1" : "SCA2tVgMCnC9r6siKESXuvjeYno=",
+      "size" : 29587
+    }
+  },
+  "uuid" : "D5023643-738B-4EDF-9A3C-50992924ADEC"
+}

@@ -1,0 +1,21 @@
+{
+	"main": "build/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/react": "^16.4.16",
+		"framer": "^0.9.7"
+	},
+	"peerDependencies": {
+		"framer": "^0.9.7",
+		"react": "^16.3.0",
+		"react-dom": "^16.3.0"
+	},
+	"framer": {
+		"id": "2ea08400-771e-44fe-8d92-a5e4fd40f12a"
+	},
+	"author": ". ruucm",
+	"dependencies": {
+		"@framer/mailvishal.map-box": "^1.0.0",
+		"@framer/mapbox.mapbox": "^1.2.0"
+	}
+}
